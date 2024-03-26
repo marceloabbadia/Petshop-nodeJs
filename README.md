@@ -1,5 +1,8 @@
 # CRUD para API de Petshop usando Winston e SQL puro
 
+<img width="1624" alt="Screenshot 2024-03-26 at 00 43 33" src="https://github.com/marceloabbadia/Petshop-nodeJs/assets/112344339/558a1269-1936-4628-9763-ed57e05d1492">
+
+
 Este é um projeto do bootcamp que implementa um CRUD (Create, Read, Update, Delete) para uma API de Petshop. O projeto utiliza o banco de dados PostgreSQL hospedado no ElephantSQL e o logger Winston para registro de atividades.
 
 ## Pré-requisitos
